@@ -1,16 +1,16 @@
 @font-face {
     font-family: 41j9-bPC0VL;
-    src: url(./fonts/41j9-bPC0VL.woff);
+    src: url(fonts/41j9-bPC0VL.woff);
 }
 
 @font-face {
     font-family: AmazonEmber_Lt;
-    src: url(./fonts/AmazonEmber_Lt.woff);
+    src: url(fonts/AmazonEmber_Lt.woff);
 }
 
 @font-face {
     font-family: AmazonEmber_Rg;
-    src: url(./fonts/AmazonEmber_Rg.woff);
+    src: url(fonts/AmazonEmber_Rg.woff);
 }
 
 * {
